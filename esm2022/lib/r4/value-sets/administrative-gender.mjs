@@ -1,0 +1,9 @@
+// https://hl7.org/fhir/R4/valueset-administrative-gender.html
+export var AdministrativeGender;
+(function (AdministrativeGender) {
+    AdministrativeGender["male"] = "male";
+    AdministrativeGender["female"] = "female";
+    AdministrativeGender["other"] = "other";
+    AdministrativeGender["unknown"] = "unknown";
+})(AdministrativeGender || (AdministrativeGender = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYWRtaW5pc3RyYXRpdmUtZ2VuZGVyLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vLi4vLi4vcHJvamVjdHMvbmd4LXNpbXBsZS1maGlyLW1vZGVscy9zcmMvbGliL3I0L3ZhbHVlLXNldHMvYWRtaW5pc3RyYXRpdmUtZ2VuZGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLDhEQUE4RDtBQUU5RCxNQUFNLENBQU4sSUFBWSxvQkFLWDtBQUxELFdBQVksb0JBQW9CO0lBQzlCLHFDQUFhLENBQUE7SUFDYix5Q0FBaUIsQ0FBQTtJQUNqQix1Q0FBZSxDQUFBO0lBQ2YsMkNBQW1CLENBQUE7QUFDckIsQ0FBQyxFQUxXLG9CQUFvQixLQUFwQixvQkFBb0IsUUFLL0IiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBodHRwczovL2hsNy5vcmcvZmhpci9SNC92YWx1ZXNldC1hZG1pbmlzdHJhdGl2ZS1nZW5kZXIuaHRtbFxuXG5leHBvcnQgZW51bSBBZG1pbmlzdHJhdGl2ZUdlbmRlciB7XG4gIG1hbGUgPSBcIm1hbGVcIixcbiAgZmVtYWxlID0gXCJmZW1hbGVcIixcbiAgb3RoZXIgPSBcIm90aGVyXCIsXG4gIHVua25vd24gPSBcInVua25vd25cIlxufVxuIl19

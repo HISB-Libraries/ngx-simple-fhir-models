@@ -1,0 +1,13 @@
+/*
+ * Public API Surface of ngx-simple-fhir-models
+ */
+/*
+ * Base Models
+ */
+export * from './lib/base/fhir.base';
+export * from './lib/base/fhir.element';
+/*
+ * R4 Models
+ */
+export * from './lib/r4/resources/patient';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25neC1zaW1wbGUtZmhpci1tb2RlbHMvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFJSDs7R0FFRztBQUNILGNBQWMsc0JBQXNCLENBQUM7QUFDckMsY0FBYyx5QkFBeUIsQ0FBQztBQUV4Qzs7R0FFRztBQUNILGNBQWMsNEJBQTRCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5neC1zaW1wbGUtZmhpci1tb2RlbHNcbiAqL1xuXG5cblxuLypcbiAqIEJhc2UgTW9kZWxzXG4gKi9cbmV4cG9ydCAqIGZyb20gJy4vbGliL2Jhc2UvZmhpci5iYXNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2Jhc2UvZmhpci5lbGVtZW50JztcblxuLypcbiAqIFI0IE1vZGVsc1xuICovXG5leHBvcnQgKiBmcm9tICcuL2xpYi9yNC9yZXNvdXJjZXMvcGF0aWVudCc7XG4iXX0=
